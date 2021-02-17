@@ -1,10 +1,10 @@
-# welcome bot: A Probot App
+# welcome JobPosting App
 
-A JobPosting App built with [probot](http://reactjs.org/) that user can posting their job and accept job.
+A JobPosting App built with [ReactJs](http://reactjs.org/) that user can posting their job and accept job.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+add job, accept job
 
 ## Getting started
 
